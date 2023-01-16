@@ -1,8 +1,8 @@
-console.log("Initial Code")
+//console.log("Initial Code")
 
-var abc = ('Hello! World')
+//var abc = ('Hello! World')
 
-console.log(abc)
+//console.log(abc)
 
 
 n = 3;
